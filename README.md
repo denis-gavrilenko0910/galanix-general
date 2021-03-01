@@ -1,0 +1,2 @@
+# galanix-general
+all tasks
